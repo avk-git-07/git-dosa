@@ -9,3 +9,9 @@
 * Dosa Batter
 * 2 eggs
 * Karam
+
+
+# Masala Dosa
+* Dosa Batter
+* Masala 2spn
+

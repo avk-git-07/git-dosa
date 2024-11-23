@@ -3,16 +3,22 @@
 * Dosa Batter
 * Karam
 * Oil
-<<<<<<< HEAD
 
 # Egg Dosa
 * 3 eggs
 * oil
-=======
+
 * Onions
 
 # Egg Dosa
 * Dosa Batter
 * 2 eggs
 * Karam
->>>>>>> main
+
+
+# Masala Dosa
+* Dosa Batter
+* Masala 2spn
+* Oil 1spn
+* Karam
+

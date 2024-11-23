@@ -3,6 +3,11 @@
 * Dosa Batter
 * Karam
 * Oil
+
+# Egg Dosa
+* 3 eggs
+* oil
+
 * Onions
 
 # Egg Dosa
@@ -14,4 +19,6 @@
 # Masala Dosa
 * Dosa Batter
 * Masala 2spn
+* Oil 1spn
+* Karam
 
